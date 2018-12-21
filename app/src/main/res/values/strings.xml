@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialCArdView</string>
+    <string name="schoolname">school</string>
+    <string name="libraryname">library</string>
+    <string name="restaurent">restaurent</string>
+    <string name="hospital">hospital</string>
+
+</resources>
